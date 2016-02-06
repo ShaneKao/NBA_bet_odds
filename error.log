@@ -1,0 +1,4 @@
+20151117   line 401: htmlParseEntityRef: expecting ';'   2016-01-04 22:05:55
+20151116   line 401: htmlParseEntityRef: expecting ';'   2016-01-04 22:06:00
+20151024   HTTPConnectionPool(host='www.playsport.cc', port=80): Read timed out. (read timeout=20)   2016-01-04 22:07:35
+20151023   HTTPConnectionPool(host='www.playsport.cc', port=80): Read timed out. (read timeout=20)   2016-01-04 22:07:55
